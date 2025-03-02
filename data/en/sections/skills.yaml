@@ -45,12 +45,12 @@ skills:
 
 - name: Machining
   logo: /images/sections/skills/prometheus.png
-  summary: "Skilled in the design of machined components and large weldments including the application GD&T"
+  summary: "Skilled in the design of machined components and large weldments including the application GD&T."
   categories: ["mechEng"]
 
 - name: Finite Element Analysis
   logo: /images/sections/skills/linux.png
-  summary: "Experienced in structural analysis using FEA ranging from "
+  summary: "Experienced in structural analysis using FEA ranging from component level such as mounts and liftings lugs up to large complex structures such as scissor lifts and crane booms."
   categories: ["mechEng"]
 
 - name: Standards
@@ -60,5 +60,5 @@ skills:
 
 - name: Materials
   logo: /images/sections/skills/c++.png
-  summary: Experienced in the selection of materials for various applications with a deep understanding of material properties and how they affect component and assembly performance."
+  summary: "Experienced in the selection of materials for various applications with a deep understanding of material properties and how they affect component and assembly performance."
   categories: ["mechEng"]
