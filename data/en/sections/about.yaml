@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate mechanical engineer with 10 years of experience.
+summary: 'I am a passionate mechanical engineer with 10 years of experience.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -58,5 +58,5 @@ badges:
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 100
   color: orange
