@@ -14,52 +14,51 @@ buttons:
   filter: "all"
 - name: Professional
   filter: "professional"
-- name: Academic
-  filter: "academic"
 - name: Hobby
   filter: "hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
+- name: 38120 Spot Welder Power Pack
+  logo: "fas fa-car-battery"
+  image: /images/sections/projects/38120_2.jpg
   role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  timeline: "2024"
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: 38120 LiFeP04 power pack in 4S2P configuration.
+  tags: ["hobby", "batteries"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: Arva Industries MC430 Mining Crane
+  logo: "fas fa-truck-monster"
+  image: /images/sections/projects/mc430.jpg
+  role: Mechanical Engineer
+  timeline: "2023"
+  url: "https://arvaindustries.com/products/mc430-20-ton-low-profile-mining-crane/"
+  summary: A 20 ton underground mining crane. Responsibilites incuded general sizing and selection of machine components, hydraulic system, and performance testing.
+  tags: ["professional", "mining"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Arva Industries SV13180 Scissor Truck
+  logo: "fas fa-level-up-alt"
+  image: /images/sections/projects/scissor_truck1.jpg
+  role: Mechanical Engineer
+  timeline: "2021"
+  #url: "https://www.example.com"
+  summary: A mobile scissor lift for underground mining applications. Responsibilites included scissor lift design and analysis and vehicle conformity to CSA B354.6.
+  tags: ["professional","mining"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Raspberry Pi Zero W Security Camera
+  logo: "fas fa-camera"
+  image: /images/sections/projects/projectThingcam_real_front_1920x1080_web.jpg
+  role: Designer
+  timeline: "2020"
+  url: "https://www.thingiverse.com/thing:4290183"
+  summary: A custom 3D printed security camera utilizing a Raspberry Pi Zero W, a Raspberry Pi camera module, and open source software.
+  tags: ["hobby", "camera", "3d-printed"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: RC Interco TSL Bogger Tire
+  logo: "fas fa-truck-monster"
+  image: /images/sections/projects/projectBogger_front_1459x1059_web.jpg
+  role: Designer
+  timeline: "2019"
+  summary: A replica of a Interco TSL Bogger tire designed for 3D printing and sized for remote controlled trucks.
+  tags: ["hobby"]

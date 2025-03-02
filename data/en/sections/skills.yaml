@@ -13,59 +13,52 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
+- name: Mechanical Engineering
+  filter: "mechEng"
+- name: Coding
+  filter: "coding"
 - name: Others
   filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Component Selection
+  logo: "fas fa-cog"
+  summary: "Capable of sizing and selection of a variety of mechanical components such as hydraulic cylinders, motors, transmissions, and axles.
+  categories: ["mechEng"]
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: Weld Design
+  logo: "fas fa-magic"
+  summary: "Experienced in the sizing and specification of welded joints for complex structures per CSA W59"
+  categories: ["mechEng"]
 
-- name: Cloud Computing
+- name: Weldments
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+  summary: "Experienced in the design of complex weldments ranging from small assemblies such as engine mounts and lifting eyes to large complex structures such as booms, columns, and scissor lifts."
+  categories: ["mechEng"]
 
-- name: Docker
+- name: Hydraulics
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+  summary: "Proficient in high level hydraulic system design including specification of flow control valves (primarily Danfoss PVG 32) and various other components such as load holding and relief valves."
+  categories: ["mechEng"]
 
-- name: Prometheus
+- name: Machining
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+  summary: "Skilled in the design of machined components and large weldments including the application GD&T"
+  categories: ["mechEng"]
 
-- name: Linux
+- name: Finite Element Analysis
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  summary: "Experienced in structural analysis using FEA ranging from "
+  categories: ["mechEng"]
 
-- name: Git
+- name: Standards
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+  summary: "Well versed in the use and application of various engineering standards including those from the CSA, ASME, ASTM, AAR, and AWS"
+  categories: ["mechEng"]
 
-- name: C++
+- name: Materials
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  summary: Experienced in the selection of materials for various applications with a deep understanding of material properties and how they affect component and assembly performance."
+  categories: ["mechEng"]

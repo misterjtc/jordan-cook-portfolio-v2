@@ -1,7 +1,7 @@
 baseURL: https://jordan.cook.engineer
 
 languageCode: bn
-title: "John's Blog"
+title: "Jordan Cook"
 
 # Use Hugo modules to add theme
 module:
@@ -90,7 +90,7 @@ params:
     theme:
       enable: true
       services:
-        light: true # enable light theme. default "true"
+        light: false # enable light theme. default "true"
         dark: true # enable dark theme. default "true"
         default: system # can be either light, dark or system. default "system"
 
@@ -155,7 +155,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
