@@ -25,7 +25,7 @@ buttons:
 skills:
 - name: Component Selection
   logo: "fas fa-cog"
-  summary: "Capable of sizing and selection of a variety of mechanical components such as hydraulic cylinders, motors, transmissions, and axles.
+  summary: "Capable of sizing and selection of a variety of mechanical components such as hydraulic cylinders, motors, transmissions, and axles."
   categories: ["mechEng"]
 
 - name: Weld Design
