@@ -24,41 +24,66 @@ buttons:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Component Selection
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/cogs-solid.svg
   summary: "Capable of sizing and selection of a variety of mechanical components such as hydraulic cylinders, motors, transmissions, and axles."
   categories: ["mechEng"]
 
 - name: Weld Design
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/magic-solid.svg
   summary: "Experienced in the sizing and specification of welded joints for complex structures per CSA W59"
   categories: ["mechEng"]
 
 - name: Weldments
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/cubes-solid.svg
   summary: "Experienced in the design of complex weldments ranging from small assemblies such as engine mounts and lifting eyes to large complex structures such as booms, columns, and scissor lifts."
   categories: ["mechEng"]
 
 - name: Hydraulics
-  logo: /images/sections/skills/docker.svg
+  logo: /images/sections/skills/tint-solid.svg
   summary: "Proficient in high level hydraulic system design including specification of flow control valves (primarily Danfoss PVG 32) and various other components such as load holding and relief valves."
   categories: ["mechEng"]
 
 - name: Machining
-  logo: /images/sections/skills/prometheus.png
+  logo: /images/sections/skills/toolbox-solid.svg
   summary: "Skilled in the design of machined components and large weldments including the application GD&T."
   categories: ["mechEng"]
 
 - name: Finite Element Analysis
-  logo: /images/sections/skills/linux.png
+  logo: /images/sections/skills/desktop-solid.svg
   summary: "Experienced in structural analysis using FEA ranging from component level such as mounts and liftings lugs up to large complex structures such as scissor lifts and crane booms."
   categories: ["mechEng"]
 
 - name: Standards
-  logo: /images/sections/skills/git.png
-  summary: "Well versed in the use and application of various engineering standards including those from the CSA, ASME, ASTM, AAR, and AWS"
+  logo: /images/sections/skills/copy-solid.svg
+  summary: "Well versed in the use and application of various engineering standards including those from the CSA, SAE, ASME, ASTM, AAR, and AWS."
   categories: ["mechEng"]
 
 - name: Materials
-  logo: /images/sections/skills/c++.png
+  logo: /images/sections/skills/layer-group-solid.svg
   summary: "Experienced in the selection of materials for various applications with a deep understanding of material properties and how they affect component and assembly performance."
   categories: ["mechEng"]
+
+- name: HTML
+  logo: /images/sections/skills/html5-brands-solid.svg
+  summary: "Versed in the language that provides the foundation of the web."
+  categories: ["coding"]
+
+- name: CSS
+  logo: /images/sections/skills/css3-alt-brands-solid.svg
+  summary: "Experienced in styling of websites using CSS and SASS."
+  categories: ["coding"]
+
+- name: Javascript
+  logo: /images/sections/skills/js-brands-solid.svg
+  summary: "Capable of adding advanced functionality to websites with the use of Javascript."
+  categories: ["coding"]
+
+- name: Docker
+  logo: /images/sections/skills/docker-brands-solid.svg
+  summary: "Experienced in the development and deployment of applications using Docker."
+  categories: ["coding"]
+
+- name: Git
+  logo: /images/sections/skills/git-brands-solid.svg
+  summary: "Versed in the tracking and revision control of projects with the use of Git primarily in Github."
+  categories: ["coding"]

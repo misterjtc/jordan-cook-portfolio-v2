@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Juno College of Technology
     url: "https://junocollege.com/"
-    logo: /images/sections/education/juno.png
+    logo: /images/sections/education/juno.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
 - name: Advanced Web Development
@@ -25,7 +25,7 @@ degrees:
   institution:
     name: Juno College of Technology
     url: "https://junocollege.com/"
-    logo: /images/sections/education/juno.png
+    logo: /images/sections/education/juno.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
 - name: B.A.Sc, Mechanical Engineering
@@ -34,7 +34,7 @@ degrees:
   institution:
     name: Western University
     url: "https://www.eng.uwo.ca"
-    logo: /images/sections/education/western.png
+    logo: /images/sections/education/western.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   extracurricularActivities: #(optional)

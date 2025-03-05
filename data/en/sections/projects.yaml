@@ -62,3 +62,27 @@ projects:
   timeline: "2019"
   summary: A replica of a Interco TSL Bogger tire designed for 3D printing and sized for remote controlled trucks.
   tags: ["hobby"]
+
+- name: Custom Network Attached Storage (NAS) Server
+  logo: "fas fa-object-group"
+  image: /images/sections/projects/projectHomeServer_assy_1440x1500_web.jpg
+  role: Designer
+  timeline: "2020"
+  summary: A custom storage server built on a 24-bay Supermicro chassis with dual Intel Xeon processors, designed for data storage, software development, hosting, and general tinkering.
+  tags: ["hobby", "computer"]
+
+- name: Parametric Design Automation
+  logo: "fas fa-object-group"
+  image: /images/sections/projects/projectSelfieStick_iso_1920x1037_web.png
+  role: Designer
+  timeline: "2019"
+  summary: Developed parametric models and software to automate design of a product based on specific application inputs.
+  tags: ["professional"]
+
+- name: Thingpro Selfie Stick
+  logo: "fas fa-camera"
+  image: /images/sections/projects/projectSelfieStick_iso_1920x1037_web.png
+  role: Designer
+  timeline: "2017"
+  summary: A 3D printed selfie stick designed for use with GoPro cameras.
+  tags: ["hobby"]

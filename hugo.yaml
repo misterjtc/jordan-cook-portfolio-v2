@@ -23,13 +23,8 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Jordan Cook"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -278,7 +273,6 @@ params:
     pagination:
        maxPostsPerPage: 12
 
-
   # Provide footer configuration.
   footer:
     enable: true
@@ -306,4 +300,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
