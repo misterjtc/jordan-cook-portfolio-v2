@@ -1,6 +1,6 @@
 baseURL: https://jordan.cook.engineer
 
-languageCode: bn
+languageCode: en
 title: "Jordan Cook"
 
 # Use Hugo modules to add theme
@@ -60,8 +60,8 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
+    main: /images/site/user-astronaut-solid-white.svg
+    inverted: /images/site/user-astronaut-solid-white.svg
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
@@ -71,7 +71,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 6
 
   # Configure various features of this theme
   features:
@@ -95,7 +95,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -112,7 +112,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:

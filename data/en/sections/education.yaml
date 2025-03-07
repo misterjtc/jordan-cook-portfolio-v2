@@ -28,13 +28,13 @@ degrees:
     logo: /images/sections/education/juno.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
-- name: B.A.Sc, Mechanical Engineering
+- name: B.E.Sc, Mechanical Engineering
   icon: fa-university
   timeframe: 2010-2015
   institution:
     name: Western University
     url: "https://www.eng.uwo.ca"
-    logo: /images/sections/education/western.svg
+    logo: /images/sections/education/western-eng-long.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   extracurricularActivities: #(optional)

@@ -3,7 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #f6f6f6;
+        fill: transparent;
       }
 
       .cls-1, .cls-2, .cls-3, .cls-4 {
