@@ -22,7 +22,7 @@ projects:
 - name: 38120 Spot Welder Power Pack
   logo: "fas fa-car-battery"
   image: /images/sections/projects/38120_2.jpg
-  role: Contributor
+  role: Design & Build
   timeline: "2024"
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 38120 LiFeP04 power pack in 4S2P configuration.
@@ -66,7 +66,7 @@ projects:
 - name: Custom Network Attached Storage (NAS) Server
   logo: "fas fa-object-group"
   image: /images/sections/projects/projectHomeServer_assy_1440x1500_web.jpg
-  role: Designer
+  role: Design & Build
   timeline: "2020"
   summary: A custom storage server built on a 24-bay Supermicro chassis with dual Intel Xeon processors, designed for data storage, software development, hosting, and general tinkering.
   tags: ["hobby", "computer"]
