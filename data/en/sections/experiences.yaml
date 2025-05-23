@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Arva Indistries is a custom mining and rail vehicle manufacturer, serving customers around the world.
+    overview: Arva Industries is a custom mining and rail vehicle manufacturer, serving customers around the world.
   positions:
   - designation: Mechanical Engineer
     start: August 2020
@@ -68,7 +68,7 @@ experiences:
     logo: /images/sections/experiences/Litens-logo.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Litens is a tier 1 supplier of power transmission and isolation components for the automotive industry.
+    overview: Litens is a global tier 1 supplier of power transmission and isolation components for the automotive industry.
   positions:
   - designation: Product Development Intern
     start: May 2013

@@ -53,7 +53,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/plain.png
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
@@ -87,7 +87,7 @@ params:
       services:
         light: false # enable light theme. default "true"
         dark: true # enable dark theme. default "true"
-        default: system # can be either light, dark or system. default "system"
+        default: dark # can be either light, dark or system. default "system"
 
     # Enable and configure portfolio
     portfolio:

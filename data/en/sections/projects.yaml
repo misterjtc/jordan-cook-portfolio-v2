@@ -19,6 +19,15 @@ buttons:
 
 # your projects
 projects:
+- name: Arva Industries MC435 Mining Scaler
+  logo: "fa-solid fa-hill-rockslide"
+  image: /images/sections/projects/ms435.jpg
+  role: Mechanical Engineer
+  timeline: "2024"
+  url: "https://arvaindustries.com/products/mc430-20-ton-low-profile-mining-crane/"
+  summary: A heavy duty scaler for underground mining. Responsibilites included design of the boom hydraulic cylinders, scaling attachment performance, and boom design.
+  tags: ["professional", "mining"]
+
 - name: 38120 Spot Welder Power Pack
   logo: "fas fa-car-battery"
   image: /images/sections/projects/38120_2.jpg
@@ -29,13 +38,22 @@ projects:
   tags: ["hobby", "batteries"]
 
 - name: Arva Industries MC430 Mining Crane
-  logo: "fas fa-truck-monster"
+  logo: "fa-solid fa-truck-pickup"
   image: /images/sections/projects/mc430.jpg
   role: Mechanical Engineer
   timeline: "2023"
   url: "https://arvaindustries.com/products/mc430-20-ton-low-profile-mining-crane/"
-  summary: A 20 ton underground mining crane. Responsibilites incuded general sizing and selection of machine components, hydraulic system, and performance testing.
+  summary: A 20 ton underground mining crane. Responsibilites included general sizing and selection of machine components, hydraulic system, and performance testing.
   tags: ["professional", "mining"]
+
+- name: PiPower Whole Home Power Monitoring
+  logo: "fa-solid fa-power-off"
+  image: /images/sections/projects/pipower.jpeg
+  role: Designer
+  timeline: "2023"
+  url: "https://cad.onshape.com/documents/86f7bd557cef8cbd98689106/w/b6814c3843a5479e1823c6cc/e/d6480fd9a7b78243a9c79649?renderMode=0&uiState=67d45ab90528080fcc2247b9"
+  summary: A 3D-printed case for the PiPower project which uses a Raspberry Pi and a custom circuit board to provide power monitoring for your whole home.
+  tags: ["hobby", "3d-printed"]
 
 - name: Arva Industries SV13180 Scissor Truck
   logo: "fas fa-level-up-alt"
@@ -55,6 +73,24 @@ projects:
   summary: A custom 3D printed security camera utilizing a Raspberry Pi Zero W, a Raspberry Pi camera module, and open source software.
   tags: ["hobby", "camera", "3d-printed"]
 
+- name: Arva Industries Documentation Platform
+  logo: "fas fa-level-up-alt"
+  image: /images/sections/projects/arva-docs.png
+  role: Designer
+  timeline: "2020"
+  url: "https://docs.arva.industries"
+  summary: Developed a knowledge base to centralize procedures, technical information and best practices for the engineering team.
+  tags: ["professional", "software"]
+
+- name: Lightarm 140
+  logo: "fa-regular fa-lightbulb"
+  image: /images/sections/projects/projectLightarm_real_1440x1920_web.jpg
+  role: Designer
+  timeline: "2020"
+  url: "https://www.thingiverse.com/thing:2685816"
+  summary: A fully 3D-printed adjustable desk lamp.
+  tags: ["hobby", "3d-printed"]
+
 - name: RC Interco TSL Bogger Tire
   logo: "fas fa-truck-monster"
   image: /images/sections/projects/projectBogger_front_1459x1059_web.jpg
@@ -71,11 +107,27 @@ projects:
   summary: A custom storage server built on a 24-bay Supermicro chassis with dual Intel Xeon processors, designed for data storage, software development, hosting, and general tinkering.
   tags: ["hobby", "computer"]
 
-- name: Parametric Design Automation
-  logo: "fas fa-object-group"
-  image: /images/sections/projects/projectSelfieStick_iso_1920x1037_web.png
+- name: Raspberry Pi Network Level Ad Block
+  logo: "fa-solid fa-rectangle-ad"
+  image: /images/sections/projects/projectPiHole_1440x1350_web.jpg
   role: Designer
   timeline: "2019"
+  summary: Deployed the Pihole ad blocking system on a RaspberryPi and developed a 3D printed case.
+  tags: ["hobby", "3d-printed"]
+
+- name: Finite Element Analysis Standards
+  logo: "fa-regular fa-file"
+  image: /images/sections/projects/fea-standards1.png
+  role: Designer
+  timeline: "2018"
+  summary: Developed documentation with recommended best practices for analyzing specific components for application engineers.
+  tags: ["professional"]
+
+- name: Parametric Design Automation
+  logo: "fas fa-object-group"
+  image: /images/sections/projects/design-automation1.png
+  role: Designer
+  timeline: "2018"
   summary: Developed parametric models and software to automate design of a product based on specific application inputs.
   tags: ["professional"]
 
@@ -84,5 +136,22 @@ projects:
   image: /images/sections/projects/projectSelfieStick_iso_1920x1037_web.png
   role: Designer
   timeline: "2017"
+  url: "https://www.thingiverse.com/thing:2604562"
   summary: A 3D printed selfie stick designed for use with GoPro cameras.
+  tags: ["hobby"]
+
+- name: Litens Overrunning Alternator Decoupler (OAD)
+  logo: "fa-regular fa-circle"
+  image: /images/sections/projects/projectOAD_isocut_1014_1079_web.png
+  role: Product Development Intern
+  timeline: "2014"
+  summary: Supported various design activities as the teams product development intern including product validation testing and investigating manufacturing and warranty issues.
+  tags: ["professional"]
+
+- name: Western SAE Mini Baja
+  logo: "fas fa-truck-monster"
+  image: /images/sections/projects/projectBaja_iso_1920x1440_web.jpg
+  role: Technical Manager
+  timeline: "2014"
+  summary: Supported various design activities as the teams product development intern including product validation testing and investigating manufacturing and warranty issues.
   tags: ["hobby"]

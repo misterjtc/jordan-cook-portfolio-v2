@@ -1,35 +1,128 @@
+// Arva Industries MS435 Mining Crane
 .filtr-item:nth-child(1) {
-    .card .card .card-head .card-img-top {
-        margin: 0px 75px;
-    }
-}
-.filtr-item:nth-child(2) {
     .card .card .card-head .card-img-top {
         margin: 0px 50px;
     }
 }
+// 38120 Spot Welder Power Pack
+.filtr-item:nth-child(2) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 75px;
+    }
+}
+// Arva Industries MC430 Mining Crane
 .filtr-item:nth-child(3) {
     .card .card .card-head .card-img-top {
         margin: 0px 50px;
     }
 }
+// PiPower
 .filtr-item:nth-child(4) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 110px;
+    }
+}
+// Arva Industries SV13180 Scissor Truck
+.filtr-item:nth-child(5) {
     .card .card .card-head .card-img-top {
         margin: 0px 50px;
     }
 }
-.filtr-item:nth-child(5) {
+// Raspberry Pi Zero W Security Camera
+.filtr-item:nth-child(6) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 50px;
+    }
+}
+// Arva Industries Documentation
+.filtr-item:nth-child(7) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 60px;
+    }
+}
+// Lightarm 140
+.filtr-item:nth-child(8) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 125px;
+    }
+}
+// RC Interco TSL Bogger Tire
+.filtr-item:nth-child(9) {
     .card .card .card-head .card-img-top {
         margin: 0px 100px;
     }
 }
-.filtr-item:nth-child(6) {
+// Custom NAS Server
+.filtr-item:nth-child(10) {
     .card .card .card-head .card-img-top {
         margin: 0px 75px;
     }
 }
-.filtr-item:nth-child(8) {
+// Raspberry Pi Ad Blocker
+.filtr-item:nth-child(11) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 60px;
+    }
+}
+// FEA Standards
+.filtr-item:nth-child(12) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 60px;
+    }
+}
+// Design Automation
+.filtr-item:nth-child(13) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 60px;
+    }
+}
+// Thingpro Selfie Stick
+.filtr-item:nth-child(14) {
     .card .card .card-head .card-img-top {
         margin: 0px 25px;
     }
 }
+// Litens OAD
+.filtr-item:nth-child(15) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 125px;
+    }
+}
+// Western Baja SAE
+.filtr-item:nth-child(16) {
+    .card .card .card-head .card-img-top {
+        margin: 0px 75px;
+    }
+}
+// Making the juno logo smaller
+.education-info-table tbody tr:nth-child(1), .education-info-table tbody tr:nth-child(2) {
+    .company-logo {
+        // margin-right: 0px;
+        margin-left: 20px;
+        width: 215px;
+    }
+}
+// hide theme in footer
+#theme {
+    display: none;
+}
+// hide hugo logo in footer
+#hugo {
+    display: none;
+}
+// // Changing the sites general colours
+// html body #top-navbar {
+//     background-color: #343434;
+//     .container .collapse .navbar.nav .nav-item .active {
+//         color: grey;
+//     }
+// }
+// .navbar-nav .nav-item .active {
+//     color: grey !important;
+// }
+// html body .bg-primary {
+//     background-color: #343434 !important;
+// }
+// html .bg-secondary {
+//     background-color: #343434 !important;
+// }

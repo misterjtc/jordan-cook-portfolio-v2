@@ -50,7 +50,7 @@ skills:
 
 - name: Finite Element Analysis
   logo: /images/sections/skills/desktop-solid.svg
-  summary: "Experienced in structural analysis using FEA ranging from component level such as mounts and liftings lugs up to large complex structures such as scissor lifts and crane booms."
+  summary: "Experienced in structural analysis using FEA ranging from component level such as mounts and lifting lugs up to large complex structures such as scissor lifts and crane booms."
   categories: ["mechEng"]
 
 - name: Standards
