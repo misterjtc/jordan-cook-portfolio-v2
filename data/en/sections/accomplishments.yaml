@@ -14,7 +14,7 @@ accomplishments:
 - name: P.Eng
   timeline: "2023"
   organization:
-    name: Professioan Engineers Ontario
+    name: Professional Engineers Ontario
     # url: https://www.linuxfoundation.org
   courseOverview: "Licensed professional engineer in the province on Ontario, Canada."
   # certificateURL: "https://example.com"
@@ -24,7 +24,7 @@ accomplishments:
   organization:
     name: Skilled Trades Ontario
     # url: https://www.coursera.org
-  courseOverview: "Red Seal licensed Automotive Service Technician in Canada."
+  courseOverview: "Red seal licensed automotive service technician in Canada."
   # certificateURL: "https://example.com"
  
 
