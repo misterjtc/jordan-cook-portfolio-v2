@@ -24,7 +24,7 @@ projects:
   image: /images/sections/projects/ms435.jpg
   role: Mechanical Engineer
   timeline: "2024"
-  url: "https://arvaindustries.com/products/mc430-20-ton-low-profile-mining-crane/"
+  #url: "https://arvaindustries.com/products/mc430-20-ton-low-profile-mining-crane/"
   summary: A heavy duty scaler for underground mining. Responsibilites included design of the boom hydraulic cylinders, scaling attachment performance, and boom design.
   tags: ["professional", "mining"]
 
@@ -101,7 +101,7 @@ projects:
 
 - name: Custom Network Attached Storage (NAS) Server
   logo: "fas fa-object-group"
-  image: /images/sections/projects/projectHomeServer_assy_1440x1500_web.jpg
+  image: /images/sections/projects/projectHomeServer_iso_3.jpg
   role: Design & Build
   timeline: "2020"
   summary: A custom storage server built on a 24-bay Supermicro chassis with dual Intel Xeon processors, designed for data storage, software development, hosting, and general tinkering.

@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Arva Industries
     url: "https://arvaindustries.com/"
-    location: St. Thomas, Ontario, Canada
+    #location: St. Thomas, Ontario, Canada
     logo: /images/sections/experiences/arva.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
@@ -32,7 +32,7 @@ experiences:
 - company:
     name: Litens Automotive Group
     url: "https://www.litens.com/"
-    location: Toronto, Ontario, Canada
+    #location: Toronto, Ontario, Canada
     logo: /images/sections/experiences/Litens-logo.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
@@ -48,7 +48,7 @@ experiences:
 - company:
     name: TD Bank Group
     url: "https://www.td.com/ca/en/personal-banking"
-    location: Toronto, Ontario, Canada
+    #location: Toronto, Ontario, Canada
     logo: /images/sections/experiences/td-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
@@ -64,7 +64,7 @@ experiences:
 - company:
     name: Litens Automotive Group
     url: "https://www.litens.com/"
-    location: Toronto, Ontario, Canada
+    #location: Toronto, Ontario, Canada
     logo: /images/sections/experiences/Litens-logo.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
@@ -80,7 +80,7 @@ experiences:
 - company:
     name: Western Baja SAE
     url: "https://www.westernbaja.com/"
-    location: London, Ontario, Canada
+    #location: London, Ontario, Canada
     logo: /images/sections/experiences/WBR-white.avif
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
