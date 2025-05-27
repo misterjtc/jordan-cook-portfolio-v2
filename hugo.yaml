@@ -160,7 +160,8 @@ params:
         #   id: <your counterdev id>
         # # GoatCounter
         goatCounter:
-          code: misterjtc
+          #code: misterjtc
+          instance: https://analytics.cook.engineer/
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com

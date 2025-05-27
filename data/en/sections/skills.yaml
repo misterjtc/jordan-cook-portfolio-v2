@@ -23,11 +23,21 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Automotive Technology
+  logo: /images/sections/skills/car-solid.svg
+  summary: "Broad knowledge of automotive mechanical and electromechanical systems including, chassis, powertrain, suspension, and control systems."
+  categories: ["mechEng"]
+
 - name: Additive Manufacturing
   logo: /images/sections/skills/print-solid.svg
   summary: "Deep expertise in additive manufacturing technologies, including FDM and SLA to rapidly prototype functional parts, reduce iteration cycles, and accelerate product development timelines."
   categories: ["mechEng"]
-  
+
+- name: Hands-on
+  logo: /images/sections/skills/wrench-solid.svg
+  summary: "Experienced engineer and automotive technician with exceptional hands-on skills in diagnosing, repairing, and optimizing complex vehicle systems, combining technical precision with practical problem-solving."
+  categories: ["mechEng"] 
+
 - name: Component Selection
   logo: /images/sections/skills/cogs-solid.svg
   summary: "Capable of sizing and selection of a variety of mechanical components such as hydraulic cylinders, motors, transmissions, and axles."
