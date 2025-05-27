@@ -161,7 +161,7 @@ params:
         # # GoatCounter
         goatCounter:
           #code: misterjtc
-          instance: https://analytics.cook.engineer/
+          instance: https://analytics.cook.engineer
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
