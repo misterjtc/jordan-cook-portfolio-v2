@@ -35,7 +35,7 @@ skills:
 
 - name: Hands-on
   logo: /images/sections/skills/wrench-solid.svg
-  summary: "Experienced engineer and automotive technician with exceptional hands-on skills in diagnosing, repairing, and optimizing complex vehicle systems, combining technical precision with practical problem-solving."
+  summary: "Experienced engineer and automotive technician with exceptional hands-on skills in diagnosing, repairing, and optimizing complex systems, combining technical precision with practical problem-solving."
   categories: ["mechEng"] 
 
 - name: Component Selection
@@ -45,7 +45,7 @@ skills:
 
 - name: Weld Design
   logo: /images/sections/skills/magic-solid.svg
-  summary: "Experienced in the sizing and specification of welded joints for complex structures per CSA W59"
+  summary: "Experienced in the sizing and specification of welded joints for complex structures per CSA W59."
   categories: ["mechEng"]
 
 - name: Weldments
@@ -71,6 +71,11 @@ skills:
 - name: Standards
   logo: /images/sections/skills/copy-solid.svg
   summary: "Well versed in the use and application of various engineering standards including those from the CSA, SAE, ASME, ASTM, AAR, and AWS."
+  categories: ["mechEng"]
+
+- name: Lifting and Hoisting
+  logo: /images/sections/skills/up-down-solid.svg
+  summary: "Experienced in the development of lifting plans for heavy equipment including the design and development of under-the-hook structures."
   categories: ["mechEng"]
 
 - name: Materials
@@ -101,4 +106,9 @@ skills:
 - name: Git
   logo: /images/sections/skills/git-brands-solid.svg
   summary: "Versed in the tracking and revision control of projects with the use of Git primarily in Github."
+  categories: ["coding"]
+
+- name: Atlassian Product Suite
+  logo: /images/sections/skills/atlassian-brands.svg
+  summary: "Knowledge of the Atlassian suite of products such as Jira and Confluence for management of issues and organization of procedures and documentation."
   categories: ["coding"]
