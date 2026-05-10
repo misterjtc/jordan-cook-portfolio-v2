@@ -8,18 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Mechanical Engineer
+designation: Engineering Manager & Mechanical Engineer
 # your company information
 company:
-  name: Arva Industries
-  url: "https://www.arvaindustries.com"
+  name: Arrow Machine and Fabrication
+  url: "https://www.arrowmfggroup.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate mechanical engineer with 10 years of experience.'
+summary: 'I am a passionate mechanical engineer with over 10 years of design and manufacturing experience.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -48,12 +48,12 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 80
+  percentage: 90
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 85
+  percentage: 90
   color: yellow
 
 - type: soft-skill-indicator

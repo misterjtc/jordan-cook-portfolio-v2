@@ -34,7 +34,7 @@ projects:
   role: Design & Build
   timeline: "2024"
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 38120 LiFeP04 power pack in 4S2P configuration.
+  summary: A 12V 38120 LiFeP04 power pack in 4S2P configuration capable of 240A continuous and 480A pulse discharge.
   tags: ["hobby", "batteries"]
 
 - name: Arva Industries MC430 Mining Crane
@@ -63,6 +63,24 @@ projects:
   #url: "https://www.example.com"
   summary: A mobile scissor lift for underground mining applications. Responsibilites included scissor lift design and analysis and vehicle conformity to CSA B354.6.
   tags: ["professional","mining"]
+
+- name: 18650 Dirt Bike Battery
+  logo: "fa-solid fa-charging-station"
+  image: /images/sections/projects/24V_18650_1.jpg
+  role: Design & Build
+  timeline: "2024"
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 2X 24V 18650 battery packs for a mini dirtbike in a 7S6P configuration.
+  tags: ["hobby", "batteries"]
+
+- name: 18650 Power Wheels Battery
+  logo: "fa-solid fa-battery-full"
+  image: /images/sections/projects/powerwheels_batt_1.jpg
+  role: Design & Build
+  timeline: "2024"
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A 16.8V Power Wheels replacement battery in a 4S7P configuration.
+  tags: ["hobby", "batteries"]
 
 - name: Raspberry Pi Zero W Security Camera
   logo: "fas fa-camera"
